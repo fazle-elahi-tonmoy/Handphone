@@ -1,6 +1,6 @@
 # HandPhone – Arduino Based Emergency Calling Device
 
-<img src="images/Handphone_User_Demo.jpg" width="700">
+<img src="images/Handphone_User_Demo.jpg" width="700"> 
 
 A wearable Arduino-based emergency communication device designed to trigger quick distress calls and alerts through a simple hand gesture interface.
 
